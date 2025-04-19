@@ -1,4 +1,0 @@
-pytube
-opencv-python
-scikit-image
-pillow
